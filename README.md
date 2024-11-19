@@ -1,4 +1,4 @@
-# Python Mobile Store Application
+# Python Buy-Phone
 
 ## Overview
 
@@ -46,7 +46,7 @@ python mobile_store.py
 
 ## Sample Interaction
 ```bash
-welcome to python store
+welcome to Buy-Phone
 
 do u want a phone?(yes/no): yes
 
