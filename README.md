@@ -34,6 +34,7 @@ This Python application simulates a mobile store where users can interact with a
 2. Make sure you have Python 3.x installed. You can check by running:
    ```bash
    python --version
+   ```
 3. Navigate to the directory where the script is located:
    ```bash
    cd path/to/your/directory
