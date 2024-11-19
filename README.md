@@ -39,10 +39,10 @@ This Python application simulates a mobile store where users can interact with a
    cd path/to/your/directory
   ```
 4. Run the script using Python:
-```bash
+  ```bash
 python mobile_store.py
-```
-##Sample Interaction
+  ```
+## Sample Interaction
 ```bash
 welcome to python store
 
