@@ -38,8 +38,7 @@ This Python application simulates a mobile store where users can interact with a
    ```bash
    cd path/to/your/directory
   ```
-4. Run the script using Python:
-  ```bash
+4. Run the script using Python:  ```bash
     python mobile_store.py
   ```
 
