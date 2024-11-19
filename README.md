@@ -32,15 +32,15 @@ This Python application simulates a mobile store where users can interact with a
 
 1. Clone this repository or download the files to your local machine.
 2. Make sure you have Python 3.x installed. You can check by running:
-   ```bash
-   python --version
-   ```
+ ```bash
+ python --version
+ ```
 3. Navigate to the directory where the script is located:
-   ```bash
-   cd path/to/your/directory
-  ```
+ ```bash
+ path/to/your/directory
+ ```
 4. Run the script using Python:
-  ```bash
+```bash
 python mobile_store.py
 ```
 
