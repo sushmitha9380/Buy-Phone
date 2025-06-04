@@ -88,3 +88,11 @@ great
 
 thank you for your purchase! we hope you love it
 ```
+---
+
+## Contact
+*For any questions or suggestions, please contact:*
+
+- Sushmitha
+- Email: sushmithars5992@gmail.com
+- GitHub: sushmitha9380
